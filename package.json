@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/gao-jx/socket-example#readme",
   "dependencies": {
-    "express": "^4.16.4",
-    "socket.io": "^2.1.1"
+    "express": "4.15.2",
+    "socket.io": "1.7.3"
   }
 }
